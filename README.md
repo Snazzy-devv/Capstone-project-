@@ -1,2 +1,2 @@
 # Capstone-project-
-Natural disasters on diseases 
+Natural disaster on diseases affecting countries 
